@@ -12,5 +12,5 @@ Type `yarn && expo start` to run the project
 
 ### Resources
 
-[Slider component](https://github.com/callstack/react-native-slider)
+[Slider component](https://github.com/callstack/react-native-slider)\
 [React Native Docs](https://reactnative.dev/docs/getting-started)
