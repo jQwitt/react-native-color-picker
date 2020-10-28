@@ -9,3 +9,8 @@ Open a new folder in vs code, open the integrated terminal and clone into this r
 Type `yarn && expo start` to run the project
 
 **Note** Must have expo installed on a device, and account created to see it live on mobile
+
+### Resources
+
+[Slider component](https://github.com/callstack/react-native-slider)
+[React Native Docs](https://reactnative.dev/docs/getting-started)
