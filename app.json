@@ -1,0 +1,12 @@
+{
+  "name": "ColorPicker",
+  "displayName": "ColorPicker",
+  "expo": {
+    "name": "ColorPicker",
+    "slug": "ColorPicker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
